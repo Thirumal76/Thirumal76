@@ -1,152 +1,113 @@
-<div align="center">
+<!-- ================= HEADER ================= -->
 
-<img src="YOUR_IMAGE_LINK" width="150" style="border-radius:50%;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00c6ff&height=200&section=header&text=Thirumala%20Rao%20Bommineni&fontSize=40&fontColor=ffffff" width="100%"/>
 
-# 👋 Hi, I'm Thirumala Rao Bommineni
+<h1 align="center">Hi 👋 I'm Thirumal</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;ECE+Graduate;Tech+Enthusiast" />
+<h3 align="center">
+Full Stack Developer • ECE Graduate • Tech Enthusiast • Flask Developer
+</h3>
 
-</div>
+<p align="center">
+  <img src="./profile.png" width="170">
+</p>
 
----
-
-# 🛠️ Technical Skills
-
-<div style="background-color:#0f172a; padding:20px; border-radius:12px; margin-bottom:15px;">
-
-<h3>💻 Frontend</h3>
-
-![HTML5](https://img.shields.io/badge/HTML5-ff5722?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-2196f3?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-</div>
-
-<div style="background-color:#1e293b; padding:20px; border-radius:12px; margin-bottom:15px;">
-
-<h3>⚙️ Backend & Programming</h3>
-
-![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-</div>
-
-<div style="background-color:#334155; padding:20px; border-radius:12px; margin-bottom:15px;">
-
-<h3>🗄️ Database</h3>
-
-![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003b57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-</div>
-
-<div style="background-color:#475569; padding:20px; border-radius:12px;">
-
-<h3>🧪 Testing</h3>
-
-- Manual Testing  
-- Test Case Writing  
-- Bug Reporting  
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Full+Stack+Developer;Flask+Backend+Developer;Frontend+Web+Designer;Python+Programmer;Building+Scalable+Web+Applications&center=true&width=600&height=45">
+</p>
 
 ---
 
-# 💼 Internship
+# 🚀 About Me
 
-<div style="background-color:#3b0764; padding:20px; border-radius:12px;">
-
-<h3>Web Technologies Intern – DDU-GKY</h3>
-
-- Developed responsive web pages  
-- Worked on frontend and basic backend (Flask)  
-- Debugged issues and followed real-world workflows  
-
-</div>
+💡 Passionate about *Full Stack Web Development*  
+💻 Building responsive & scalable web applications  
+⚙️ Strong foundation in Python, Flask & Web Technologies  
+🎯 Seeking *Full Stack Developer opportunities*
 
 ---
 
-# 📌 Projects
+# 🧠 Skills
 
-<div style="background-color:#064e3b; padding:20px; border-radius:12px; margin-bottom:15px;">
+## 👨‍💻 Programming & Backend
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
 
-<h3>🌾 SmartKrishi AP</h3>
+## 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
 
-Voice-enabled smart agriculture web application:
-- Crop planning by district  
-- Weather forecasting  
-- Market price insights  
+## 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-darkblue?style=for-the-badge&logo=sqlite)
 
-<b>Tech:</b> Python, Flask, HTML, CSS, JS, SQLite  
-
-</div>
-
-<div style="background-color:#7c2d12; padding:20px; border-radius:12px; margin-bottom:15px;">
-
-<h3>🛒 Grocery Store Management System</h3>
-
-- Inventory management  
-- Billing system  
-- CRUD operations  
-
-<b>Tech:</b> HTML, CSS, JavaScript, Python, Flask  
-
-</div>
-
-<div style="background-color:#1e3a8a; padding:20px; border-radius:12px;">
-
-<h3>🌐 Portfolio Website</h3>
-
-- Responsive personal website  
-- Projects showcase  
-- Contact form  
-
-<b>Tech:</b> HTML, CSS, JavaScript  
-
-</div>
+## 🧪 Testing
+Manual Testing • Test Case Writing • Bug Reporting
 
 ---
 
-# 📜 Certifications
+# 💼 Experience
 
-<div style="background-color:#4c1d95; padding:20px; border-radius:12px;">
+### 🌐 Web Technologies Intern – DDU-GKY
+✔ Developed responsive web pages  
+✔ Worked on frontend & backend using Flask  
+✔ Debugged issues and followed real-world workflows  
+✔ Used GitHub for version control  
 
-✔ Full-Stack Development 101 – Simplilearn SkillUp  
-<br>
-✔ Web Technologies – DDU-GKY  
-<br>
-✔ Hackamania Hackathon – Participation  
+---
 
-</div>
+# 🚀 Projects
+
+### 🌾 SmartKrishi AP – Smart Agriculture Web App
+Python + Flask + SQLite  
+👉 Crop planning by district  
+👉 Weather forecasting integration  
+👉 Market price insights  
+
+### 🛒 Grocery Store Management System
+Python + Flask + MySQL  
+👉 Inventory management  
+👉 Billing system  
+👉 CRUD operations  
+
+### 💻 Personal Portfolio Website
+HTML + CSS + JavaScript  
+👉 Fully responsive website  
+👉 Projects showcase  
+👉 Contact form integration  
 
 ---
 
 # 🎓 Education
 
-<div style="background-color:#0c4a6e; padding:20px; border-radius:12px;">
-
-<b>B.Tech – Electronics & Communication Engineering</b>  
+**B.Tech – Electronics & Communication Engineering (2022–2026)**  
 A. M. Reddy Memorial College of Engineering & Technology  
-CGPA: 8.1 (2022–2026)
+CGPA: 8.1  
 
-<br><br>
-
-Intermediate (MPC) – CGPA: 8  
-<br>
-SSC – CGPA: 9.3  
-
-</div>
 
 ---
 
-# 📫 Contact
+# 📚 Currently Learning
+- Data Structures & Algorithms
+- GenAI 
+- Advanced Testing 
+- REST APIs  
+- Full Stack Development  
 
-<div align="center" style="background-color:#111827; padding:20px; border-radius:12px; margin-top:15px;">
+---
 
-📧 yourmail@example.com  
-<br>
-🔗 https://linkedin.com/in/your-link  
+# 🤝 Connect With Me
 
-</div>
+📧 thirumal.ofcl@gmail.com  
+
+<p align="center">
+  <a href="mailto:thirumal.ofcl@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+⭐ Thanks for visiting my profile! Let's build impactful web applications together 🚀
+
